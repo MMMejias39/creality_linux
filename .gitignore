@@ -1,0 +1,9 @@
+# Artefatos grandes do Creality Print (baixar/extrair localmente)
+*.AppImage
+CrealityPrint-*.AppDir/
+
+# Binário compilado do launcher Rust
+/creality-print-rust
+
+# Rust
+launcher/target/
